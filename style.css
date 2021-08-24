@@ -1,0 +1,58 @@
+body{
+    background-image: cover;
+}
+.footer {
+    font-size: 20px;
+    position: fixed;
+    color: lightgreen;
+    bottom: 0;
+    width: 100%;
+    background-color:green;
+    line-height: 3;
+    text-align: center;
+  }
+.heading{
+    color: purple;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Courgette', cursive;
+    background:lightsalmon;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;;
+    padding-left: 5px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.div_speed{
+    float: left;
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+    font-family: 'Courgette', cursive;
+}
+.div_volume{
+    float: right;
+}
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume{
+    font-size: 23px;
+    margin: 15px;
+    font-family: 'Courgette', cursive;
+}
+.play_song_name{
+    width: 150px;
+    font-size: 25px;
+    font-family: 'Courgette', cursive;
+}
